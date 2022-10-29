@@ -5,7 +5,7 @@
    "Init":"300000家",
    "Fim":"7200000家",
    "TutorialShared":"https://rodrigo12xd.github.io/sockslite/SocksLite/TutorialShared.html",
-   "LinkUpdate":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/",
+   "LinkUpdate":"https://raw.githubusercontent.com/bielsilva713/fast-netcba/main/config",
    "LinkSMS":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS",
    "UDP":"7300;7400;7500;7600;7700",
    "Servers":[
